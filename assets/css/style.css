@@ -12,3 +12,18 @@ a {
     font-family: Arial, Helvetica, sans-serif;
     color: #777777   
 }
+
+.imgcontainer {
+    position: relative;
+}
+
+.imgtext {
+    background-color: #4aaaa5;
+    position: absolute;
+    color: white;
+    left: auto;
+    width: 100%;
+    z-index: 1;
+
+
+}
